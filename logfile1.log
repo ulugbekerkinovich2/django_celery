@@ -1,0 +1,93 @@
+[2024-08-03 14:34:08,972: WARNING/MainProcess] E:\python_projects\django_billing\venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-08-03 14:34:08,986: INFO/MainProcess] Connected to redis://localhost:6379/0
+[2024-08-03 14:34:08,987: WARNING/MainProcess] E:\python_projects\django_billing\venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-08-03 14:34:09,006: INFO/MainProcess] mingle: searching for neighbors
+[2024-08-03 14:34:09,495: INFO/SpawnPoolWorker-1] child process 12612 calling self.run()
+[2024-08-03 14:34:09,520: INFO/SpawnPoolWorker-4] child process 15904 calling self.run()
+[2024-08-03 14:34:09,531: INFO/SpawnPoolWorker-2] child process 17756 calling self.run()
+[2024-08-03 14:34:09,544: INFO/SpawnPoolWorker-3] child process 14984 calling self.run()
+[2024-08-03 14:34:09,546: INFO/SpawnPoolWorker-6] child process 5884 calling self.run()
+[2024-08-03 14:34:09,549: INFO/SpawnPoolWorker-5] child process 13688 calling self.run()
+[2024-08-03 14:34:09,578: INFO/SpawnPoolWorker-8] child process 7144 calling self.run()
+[2024-08-03 14:34:09,624: INFO/SpawnPoolWorker-7] child process 3744 calling self.run()
+[2024-08-03 14:34:10,221: INFO/MainProcess] mingle: all alone
+[2024-08-03 14:34:10,521: INFO/MainProcess] celery@WIN-3B2CF95JM7T ready.
+[2024-08-03 14:34:10,554: INFO/MainProcess] Task basic_app.tasks.send_request[80599f6b-9c73-4030-888d-21ccdc5e20c6] received
+[2024-08-03 14:34:10,580: INFO/MainProcess] Task basic_app.tasks.send_request[41f44cb9-1fc8-4577-83ce-bbd0f97f42d6] received
+[2024-08-03 14:34:10,610: INFO/MainProcess] Task basic_app.tasks.send_request[4b7a7d4d-ae1d-431b-8c6d-4f6936885e51] received
+[2024-08-03 14:34:10,636: INFO/MainProcess] Task basic_app.tasks.send_request[652f5951-dfc1-4751-a068-053939adf9c0] received
+[2024-08-03 14:34:10,667: INFO/MainProcess] Task basic_app.tasks.send_request[20e74355-baa5-4152-96bb-913712610f99] received
+[2024-08-03 14:34:10,721: INFO/MainProcess] Task basic_app.tasks.send_request[27f71705-262b-4921-8e09-4a0c58de1121] received
+[2024-08-03 14:34:12,416: INFO/SpawnPoolWorker-10] child process 13932 calling self.run()
+[2024-08-03 14:34:12,419: INFO/SpawnPoolWorker-9] child process 15996 calling self.run()
+[2024-08-03 14:34:12,422: INFO/SpawnPoolWorker-11] child process 5156 calling self.run()
+[2024-08-03 14:34:12,423: INFO/SpawnPoolWorker-13] child process 2128 calling self.run()
+[2024-08-03 14:34:12,434: INFO/SpawnPoolWorker-12] child process 12044 calling self.run()
+[2024-08-03 14:34:13,742: INFO/SpawnPoolWorker-14] child process 16704 calling self.run()
+[2024-08-03 14:34:13,742: INFO/SpawnPoolWorker-16] child process 12492 calling self.run()
+[2024-08-03 14:34:13,743: INFO/SpawnPoolWorker-15] child process 7248 calling self.run()
+[2024-08-03 14:35:00,005: INFO/MainProcess] Task basic_app.tasks.send_request[0329cc35-e171-47cf-9163-b8699caa542f] received
+[2024-08-03 14:36:41,535: WARNING/MainProcess] E:\python_projects\django_billing\venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-08-03 14:36:41,554: INFO/MainProcess] Connected to redis://localhost:6379/0
+[2024-08-03 14:36:41,555: WARNING/MainProcess] E:\python_projects\django_billing\venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-08-03 14:36:41,561: INFO/MainProcess] mingle: searching for neighbors
+[2024-08-03 14:36:42,008: INFO/SpawnPoolWorker-3] child process 10984 calling self.run()
+[2024-08-03 14:36:42,011: INFO/SpawnPoolWorker-4] child process 11076 calling self.run()
+[2024-08-03 14:36:42,022: INFO/SpawnPoolWorker-1] child process 13264 calling self.run()
+[2024-08-03 14:36:42,028: INFO/SpawnPoolWorker-2] child process 2608 calling self.run()
+[2024-08-03 14:36:42,047: INFO/SpawnPoolWorker-6] child process 152 calling self.run()
+[2024-08-03 14:36:42,051: INFO/SpawnPoolWorker-8] child process 8344 calling self.run()
+[2024-08-03 14:36:42,059: INFO/SpawnPoolWorker-5] child process 15308 calling self.run()
+[2024-08-03 14:36:42,062: INFO/SpawnPoolWorker-7] child process 14144 calling self.run()
+[2024-08-03 14:36:42,666: INFO/MainProcess] mingle: all alone
+[2024-08-03 14:36:42,926: INFO/MainProcess] celery@WIN-3B2CF95JM7T ready.
+[2024-08-03 14:36:42,938: INFO/MainProcess] Task basic_app.tasks.send_request[3765dee4-508f-479c-a309-90f26342379a] received
+[2024-08-03 14:36:45,005: INFO/SpawnPoolWorker-9] child process 17928 calling self.run()
+[2024-08-03 14:36:45,016: INFO/SpawnPoolWorker-10] child process 1612 calling self.run()
+[2024-08-03 14:37:00,002: INFO/MainProcess] Task basic_app.tasks.send_request[da2559aa-f0a9-449e-bcea-bc9f00c86cbf] received
+[2024-08-03 14:37:00,599: INFO/SpawnPoolWorker-11] child process 4964 calling self.run()
+[2024-08-03 14:37:00,607: INFO/SpawnPoolWorker-12] child process 18196 calling self.run()
+[2024-08-03 14:37:00,617: INFO/SpawnPoolWorker-13] child process 11492 calling self.run()
+[2024-08-03 14:37:02,246: INFO/SpawnPoolWorker-14] child process 18108 calling self.run()
+[2024-08-03 14:38:00,002: INFO/MainProcess] Task basic_app.tasks.send_request[5d365055-299e-4483-8475-aa4d1faab176] received
+[2024-08-03 14:38:00,807: INFO/SpawnPoolWorker-15] child process 18664 calling self.run()
+[2024-08-03 14:38:00,816: INFO/SpawnPoolWorker-16] child process 3004 calling self.run()
+[2024-08-03 14:38:00,816: INFO/SpawnPoolWorker-17] child process 14208 calling self.run()
+[2024-08-03 14:38:02,366: INFO/SpawnPoolWorker-18] child process 7328 calling self.run()
+[2024-08-03 14:38:28,231: INFO/MainProcess] Task basic_app.tasks.send_request[05db7fb3-c46d-4356-8935-96375b9f9c47] received
+[2024-08-03 14:38:28,749: INFO/SpawnPoolWorker-19] child process 9588 calling self.run()
+[2024-08-03 14:38:28,749: INFO/SpawnPoolWorker-20] child process 2656 calling self.run()
+[2024-08-03 14:38:30,598: INFO/SpawnPoolWorker-21] child process 2596 calling self.run()
+[2024-08-03 14:38:32,182: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-08-03 14:39:00,010: INFO/MainProcess] Task basic_app.tasks.send_request[01ecd121-36d2-4dcc-9d7d-a3de2a9cc97e] received
+[2024-08-03 14:39:00,917: INFO/SpawnPoolWorker-22] child process 16704 calling self.run()
+[2024-08-03 14:39:02,353: INFO/SpawnPoolWorker-23] child process 17500 calling self.run()
+[2024-08-03 14:40:00,002: INFO/MainProcess] Task basic_app.tasks.send_request[c5102a39-bbc8-41bf-8a11-c369c1b44f55] received
+[2024-08-03 14:40:00,809: INFO/SpawnPoolWorker-24] child process 4824 calling self.run()
+[2024-08-03 14:41:00,002: INFO/MainProcess] Task basic_app.tasks.send_request[9b8622cb-184b-4b25-a0c9-56089e9bf5c3] received
+[2024-08-03 14:41:00,854: INFO/SpawnPoolWorker-25] child process 17352 calling self.run()
+[2024-08-03 14:42:00,002: INFO/MainProcess] Task basic_app.tasks.send_request[674eed2a-a593-4432-8697-ac7b79f21b6c] received
+[2024-08-03 14:42:01,016: INFO/SpawnPoolWorker-26] child process 14052 calling self.run()
+[2024-08-03 14:43:00,003: INFO/MainProcess] Task basic_app.tasks.send_request[fb2e498c-3c8a-4356-b7f4-80eaf6821242] received
+[2024-08-03 14:43:01,021: INFO/SpawnPoolWorker-27] child process 9068 calling self.run()
+[2024-08-03 14:43:29,800: INFO/MainProcess] Task basic_app.tasks.send_request[cd01e581-0d6d-4161-b82b-76736a8f8636] received
